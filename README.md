@@ -1,0 +1,2 @@
+# NAPI-Internship
+I was accepted as an intern of Nara Institute of Science and Technology (NAIST) under the Computational Systems Biology Laboratory. This repository contains all the files that I used during this internship period. Unfortunately, due to privacy issues, I will not be sharing the dataset and the files for the model themselves. Only the notebooks and final presentation deck will be included in this repository.
