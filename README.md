@@ -1,8 +1,8 @@
 # NAPI Internship
 
-<p align="center"><img src="sample_images/samp1.PNG" width="400"/></p>
-<p align="center"><img src="sample_images/samp2.PNG" width="400"/></p>
-<p align="center"><img src="sample_images/samp3.PNG" width="400"/></p>
+<p align="center"><img src="sample_images/samp1.PNG" width="500"/></p>
+<p align="center"><img src="sample_images/samp2.PNG" width="500"/></p>
+<p align="center"><img src="sample_images/samp3.PNG" width="500"/></p>
 
 Last January 2022, I was accepted as an intern at the Nara Institute of Science and Technology (NAIST) under the Computational Systems Biology Laboratory. During this internship, I was introduced to a project of the lab which aims to detect scoliosis on chest X-ray images via deep learning. The model created by the lab was based on the [EfficientNet architecture](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html). 
 
